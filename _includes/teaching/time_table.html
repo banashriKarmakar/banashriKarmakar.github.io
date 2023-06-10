@@ -19,6 +19,9 @@
             {% if content.discipline %}
             <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem;">Discipline: {{content.discipline}}</h6>
             {% endif %}
+            {% if content.topic %}
+            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem;">Topic: {{content.topic}}</h6>
+            {% endif %}
             {% if content.description %}
               <ul class="items">
                 {% for item in content.description %}
