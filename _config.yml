@@ -277,7 +277,8 @@ scholar:
   source: /_bibliography/
   bibliography: conf.bib 
   bibliography2: journal.bib 
-  bibliography3: workshop.bib 
+  bibliography3: workshop.bib
+  bibliography4: preprint.bib
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.

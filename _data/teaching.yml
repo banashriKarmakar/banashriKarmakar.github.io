@@ -1,6 +1,12 @@
 - type: time_table
   description: I worked as a teaching assistant for the following courses  
   contents:
+    - title: E0312 - Foundations of Secure Computation 
+      institution: <a href="https://iisc.ac.in/">Indian Institute of Science, Bangalore</a>
+      year: 2024-JAN
+    - title: E0235 - Cryptography 
+      institution: <a href="https://iisc.ac.in/">Indian Institute of Science, Bangalore</a>
+      year: 2023-AUG
     - title: PEC-IT601A - Advanced Algorithms 
       institution: <a href="https://gcelt.gov.in/">Government College of Engineering and Leather Technology, West Bengal, India</a>
       year: 2022-23-EVEN
